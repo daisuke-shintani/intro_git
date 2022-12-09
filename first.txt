@@ -5,4 +5,4 @@ gitの練習をしていきます。
 練習3
 git add git commit
 
-
+a
